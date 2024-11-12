@@ -1,3 +1,9 @@
+## [0.1.2.2] - 2024-11-12
+ 
+### What's new?
+ 
+* Added Open Source page
+
 ## [0.1.2] - 2024-11-12
  
 ### What's new?
