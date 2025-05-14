@@ -1,4 +1,4 @@
-# Finnz-Web
-WIP, a lot of stuff is missing
+# Jamie's Web
+My own websites Github page, the site is currently on a work in progress state!
 
-Powered by: Namecheap Domain & Github Pages
+Powered by: Github Pages
